@@ -2,6 +2,8 @@
 
 Analysis and data for [Identifying interactions in omics data for clinical biomarker discovery using symbolic regression, Bioinformatics, 2022](https://doi.org/10.1093/bioinformatics/btac405)
 
+- https://docs.abzu.ai/docs/tutorials/r/aso.html
+
 ### Disclaimer
 
 The results of the paper (contained in the notebooks) were generated using feyn 2.1.2, in combination with a remote call to Abzu's 
